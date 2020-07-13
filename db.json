@@ -1,5 +1,7 @@
 {
-	"driverId":1,
-	"driverName": "Muragwe Ndavid",
-	"location":{ "latitude": 37.78825,"longitude": -122.4324 }
+	"deliveryDetails":{
+		"driverId":1,
+		"driverName": "Muragwe Ndavid",
+		"location":{ "latitude": 37.78825,"longitude": -122.4324 }
+	}
 }
